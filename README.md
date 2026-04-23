@@ -38,9 +38,12 @@ By uncovering patterns in behavior, growth, and retention, the dashboard support
 The dashboard helps businesses refine marketing by highlighting customer preferences, guides expansion by revealing high‑potential cities and states, and boosts engagement through personalized campaigns. By consolidating sales and customer data into one view, it uncovers growth opportunities and supports confident, data‑driven decisions.
     
 <img align="center" height="20" src="https://github.com/user-attachments/assets/15a37660-949a-4820-97b6-ab557e9f4a4c"> Screenshots / Demos
-https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Sales_Segment.png
-https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Customer_Segment.png
-https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Calendar_Segment.png
+
+<img align="center" height="500" src="https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Sales_Segment.png">
+
+<img align="center" height="500" src="https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Customer_Segment.png">
+
+<img align="center" height="500" src="https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Calendar_Segment.png">
 
 
 
