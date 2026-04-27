@@ -1,5 +1,5 @@
 # DataAnalysis_PowerBI
-<h2><img align="center" height="80" src="https://github.com/user-attachments/assets/70b1437c-b9fd-4b27-9f2a-f7d567a6199d"> Customer Insights & Sales Performance Dashboard (Power BI) </h2>
+<h2><img align="center" height="50" src="https://github.com/user-attachments/assets/70b1437c-b9fd-4b27-9f2a-f7d567a6199d"> Customer Insights & Sales Performance Dashboard (Power BI) </h2>
 This project showcases an interactive Power BI dashboard designed to analyze customer behavior and track sales performance. The dashboard provides:
 
 1. Customer Insights: Segmentation, purchase trends, and retention analysis.
@@ -39,9 +39,9 @@ The dashboard helps businesses refine marketing by highlighting customer prefere
     
 <img align="center" height="20" src="https://github.com/user-attachments/assets/15a37660-949a-4820-97b6-ab557e9f4a4c"> Screenshots / Demos
 
-<img align="center" height="500" src="https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Sales_Segment.png">
-
 <img align="center" height="500" src="https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Customer_Segment.png">
+
+<img align="center" height="500" src="https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Sales_Segment.png">
 
 <img align="center" height="500" src="https://github.com/meenal2612/DataAnalysis_PowerBI/blob/main/Dashboard%20Screenshots/Calendar_Segment.png">
 
